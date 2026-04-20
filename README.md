@@ -1,5 +1,5 @@
-<!DOCTYPE html>
-<html lang="en">
+
+<html lang="PL">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -65,5 +65,7 @@
     .message {
       color: #667eea;
       font-size*
+
+  
 
   
